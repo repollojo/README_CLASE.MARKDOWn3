@@ -19,9 +19,9 @@ OPTION+ASTERISCO=~
 
 **LISTAS:**
 
-Viñetas:
-
-*Lista 1
+Viñetas: 
+    *Lista 1
+    
 
 
 
