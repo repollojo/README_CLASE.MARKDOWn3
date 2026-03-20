@@ -20,8 +20,25 @@ OPTION+ASTERISCO=~
 **LISTAS:**
 
 Viñetas: 
-    *Lista 1
+*  1
+*  2
+*  3
     
+
+
+1. elemento 1   
+2. elemento 2
+3. elemento 3  
+       3.1 elemento 3
+
+**Links** [Nombre de la web](link)
+**Imágen** ![testo](link)
+**Imágen + Link** [![testo](link)(link imagen)
+
+**Links** [Google](https://www.google.com/?hl=es)  
+**Imágen** ![meme](https://humanidades.com/wp-content/uploads/2017/02/pato-2-e1560917879703.jpg)  
+**Imágen + Link** [![alo](https://www.google.com/?hl=es)(https://www.fincacasarejo.com/Docs/Productos/CANARD-POMPON-BLANCO_1.jpg)
+
 
 
 
